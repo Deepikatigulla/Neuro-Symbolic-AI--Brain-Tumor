@@ -19,10 +19,6 @@ This repository demonstrates a Neuro-Symbolic AI system that integrates neural n
    ```bash
    cd neuro-symbolic-ai
    ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
